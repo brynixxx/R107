@@ -9,3 +9,4 @@ elif (nombre > 0 and nombre % 2 != 0) :
 elif (nombre > 0 and nombre % 2 == 0) :
     print("Le nombre est positif et pair")
 else : print("Le nombre est 0")
+
